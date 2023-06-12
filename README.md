@@ -27,7 +27,7 @@
 
 ## Recomendations
 ![](https://github.com/NikolaSudavniy/NikolaSudavniy/blob/master/Recommendations%20Sudavnyy.pdf)
-<img src="[путь к файлу](https://github.com/NikolaSudavniy/NikolaSudavniy/blob/master/Recommendations%20Sudavnyy.pdf)" alt="Recomendations">
+<img src="https://github.com/NikolaSudavniy/NikolaSudavniy/blob/master/Recommendations%20Sudavnyy.pdf" alt="Recomendations">
 
 ## Connect with me  
 <a href="https://github.com/NikolaSudavniy" target="_blank">
