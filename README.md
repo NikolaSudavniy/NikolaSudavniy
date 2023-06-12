@@ -2,7 +2,9 @@
   
 
 - coder from Odessa⌨️🌊
+
 - Play on guitar🎸  
+
 - like to create beautiful websites😱😍  
   
 <br/>  
@@ -25,10 +27,10 @@
 
 
 ## Connect with me  
-<a href="https://github.com/NikolaSudavniy" target="_blank">
+<a href="[https://github.com/NikolaSudavniy](https://github.com/NikolaSudavniy)" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/nikola-sudavnyy-791410224/" target="_blank">
+<a href="[https://www.linkedin.com/in/nikola-sudavnyy-791410224/](https://www.linkedin.com/in/nikola-sudavnyy-791410224/)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/_studded__angel_?igshid=MzRlODBiNWFlZA==" target="_blank">
