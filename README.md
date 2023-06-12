@@ -26,7 +26,7 @@
 <br/>  
 
 
-<a href="https://github.com/NikolaSudavniy/NikolaSudavniy/blob/master/Recommendations%20Sudavnyy.pdf" target="_blank" style="text-decoration: none; color: #000000"> Recomendations </a> 
+<a href="https://github.com/NikolaSudavniy/NikolaSudavniy/blob/master/Recommendations%20Sudavnyy.pdf" target="_blank" style="text-decoration: none; text-color: black"> Recomendations </a> 
 
 ## Connect with me  
 <a href="https://github.com/NikolaSudavniy" target="_blank">
