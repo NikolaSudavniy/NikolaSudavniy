@@ -25,8 +25,8 @@
 </td></tr></table>  
 <br/>  
 
-## Recomendations
-<a href="https://github.com/NikolaSudavniy/NikolaSudavniy/blob/master/Recommendations%20Sudavnyy.pdf" target="_blank" style="text-decoration: none;"> click to view </a> 
+## Recomendations (click on the image)
+<a href="https://github.com/NikolaSudavniy/NikolaSudavniy/blob/master/Recommendations%20Sudavnyy.pdf" target="_blank" style="text-decoration: none;"> <img style="margin: 10px" src="https://github.com/NikolaSudavniy/NikolaSudavniy/blob/master/360_F_550490759_0QNpw7NU3DwRE7igVdIiJJxa6ABXzJ07.jpg" alt="Recomendations" height="80" / </a> 
 
 ## Connect with me  
 <a href="https://github.com/NikolaSudavniy" target="_blank">
