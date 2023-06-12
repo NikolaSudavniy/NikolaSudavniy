@@ -26,7 +26,7 @@
 <br/>  
 
 ## Recomendations
-![Image alt](https://github.com/{NikolaSudavniy}/{NikolaSudavniy}/raw/{blob}/{master}/Recommendations%20Sudavnyy.pdf)
+![]https://github.com/NikolaSudavniy/NikolaSudavniy/blob/master/Recommendations%20Sudavnyy.pdf
 
 ## Connect with me  
 <a href="https://github.com/NikolaSudavniy" target="_blank">
