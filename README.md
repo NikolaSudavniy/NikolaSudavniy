@@ -25,13 +25,13 @@
 
 
 ## Connect with me  
-<a href="https://github.com/NikolaSudaniy" target="_blank">
+<a href="https://github.com/NikolaSudavniy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/nikola-sudavnyy" target="_blank">
+<a href="https://www.linkedin.com/in/nikola-sudavnyy-791410224/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/_studded_angel_" target="_blank">
+<a href="[https://instagram.com/_studded_angel_](https://instagram.com/_studded__angel_?igshid=MzRlODBiNWFlZA==)" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <br/>  
