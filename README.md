@@ -26,7 +26,7 @@
 <br/>  
 
 
-<a href="https://github.com/NikolaSudavniy/NikolaSudavniy/blob/master/Recommendations%20Sudavnyy.pdf" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg](https://github.com/NikolaSudavniy/NikolaSudavniy/blob/master/Recommendations%20Sudavnyy.pdf)" alt="Recomendations" width="100%"/></a> 
+<a href="https://github.com/NikolaSudavniy/NikolaSudavniy/blob/master/Recommendations%20Sudavnyy.pdf" target="_blank"> ## Recomendation </a> 
 
 ## Connect with me  
 <a href="https://github.com/NikolaSudavniy" target="_blank">
