@@ -27,7 +27,7 @@
 
 
 ## Connect with me  
-<a href="[https://github.com/NikolaSudavniy](https://github.com/NikolaSudavniy)" target="_blank">
+<a href="https://github.com/NikolaSudavniy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="[https://www.linkedin.com/in/nikola-sudavnyy-791410224/](https://www.linkedin.com/in/nikola-sudavnyy-791410224/)" target="_blank">
