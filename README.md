@@ -25,8 +25,8 @@
 </td></tr></table>  
 <br/>  
 
-
-<a href="https://github.com/NikolaSudavniy/NikolaSudavniy/blob/master/Recommendations%20Sudavnyy.pdf" target="_blank" style="text-decoration: none;"> Recomendations </a> 
+## Recomendations
+<a href="https://github.com/NikolaSudavniy/NikolaSudavniy/blob/master/Recommendations%20Sudavnyy.pdf" target="_blank" style="text-decoration: none;"> click to view </a> 
 
 ## Connect with me  
 <a href="https://github.com/NikolaSudavniy" target="_blank">
