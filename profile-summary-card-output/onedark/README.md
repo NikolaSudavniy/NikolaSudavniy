@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/NikolaSudavniy/NikolaSudavniy/master/profile-summary-card-output/onedark/4-productive-time.svg)
-```
-
-    
